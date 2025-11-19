@@ -1,5 +1,5 @@
 environment:
-  name: prod # prod, staging, dev, prod, qa
+  name: prod # test, staging, dev, prod, qa
   project: cdf-bootcamp-40-prod # ex. cdf-bootcamp-01-prod
   validation-type: prod # prod, staging, dev, prod, qa
   selected:
